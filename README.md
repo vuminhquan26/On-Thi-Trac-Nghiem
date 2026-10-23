@@ -11,7 +11,7 @@
 **Phiên bản hiện tại:** v1.0.0 (Dành cho Windows)
 
 1. Tải file cài đặt mới nhất: 
-   👉 **[Tải xuống On Thi Trac Nghiem Setup 1.0.0.exe](#thay-bang-link-google-drive-cua-ban)**
+   👉 **[Tải xuống On Thi Trac Nghiem Setup 1.0.0.exe](https://github.com/vuminhquan26/On-Thi-Trac-Nghiem/releases/download/v1.0.0/On.Thi.Trac.Nghiem.Setup.1.0.0.exe)**
 2. Nhấn đúp chuột vào file `.exe` vừa tải về.
 3. Phần mềm sẽ tự động cài đặt và tạo biểu tượng (Shortcut) trên Desktop. Mở lên và sử dụng ngay mà không cần cấu hình phức tạp.
 
